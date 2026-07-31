@@ -1,4 +1,4 @@
-# Agência de Turismo — JPA (Estudo de Caso 1)
+# Agência de Turismo em JPA
 
 Projeto que atende ao pedido do trabalho: implementa uma classe persistente
 (`Cliente`) que **herda** de `Pessoa`, salva no banco de dados via **JPA/Hibernate**,
@@ -55,5 +55,5 @@ Isso abre um menu no console:
 
 ## Se quiser importar no Eclipse/IntelliJ
 
-Basta importar como "projeto Maven existente" — o `pom.xml` já traz as
+Basta importar como "projeto Maven existente"  o `pom.xml` já traz as
 dependências do Hibernate (implementação da JPA) e do H2.
